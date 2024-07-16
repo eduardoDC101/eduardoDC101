@@ -5,6 +5,7 @@
 
 <div>
   <a href="https://github.com/eduardoDC101">
+  ![Eduardo's GitHub stat](https://github-readme-stats.vercel.app/api?username=eduardoDC101&show_icons=true&theme=transparent)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoDC101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoDC101&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
