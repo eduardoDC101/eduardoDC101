@@ -1,7 +1,8 @@
 <p align="justify">     Olá, meu nome é Eduardo Dourado, tenho 19 anos e sou apaixonado por programação. No meu tempo livre, gosto de codar, estudar e aprender coisas novas. Comecei na programação em 2021, com aulas do Curso em Vídeo e conteúdo do YouTube. O que me fascinou e me fez querer entrar nesse universo foi a possibilidade de criar qualquer coisa usando linhas de código. Atualmente, estou cursando Sistemas de Informação no IFSP e, em paralelo, busco aprimorar minhas habilidades em Desenvolvimento Web através de cursos e projetos. Estou sempre em busca de evolução!</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=eduardoDC101&show_icons=true&theme=radical&layout=compact" />
+<img height="165em" width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoDC101&show_icons=true&theme=radical"/>
+<img width=40% align="center" height="165em" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=eduardoDC101&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
@@ -41,7 +42,6 @@
 <a href="https://www.linkedin.com/in/eduardo-dourado-da-cruz-8996402b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
  
-
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
