@@ -10,11 +10,14 @@
 
 
 
-## My Skills
-
-#### Main Stack:
+<div align="center">
+ <hr/>
  
-<div display="flex">
+### My Skills:
+ 
+</div>
+ 
+<div display="flex" align="center">
  <img alt="Eduardo-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img alt="Eduardo-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img alt="Eduardo-Html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -27,24 +30,29 @@
 
 
 
-#### Workstation Tools:
 
-<div display="flex">
+
+<div display="flex" align="center">
+
+### Workstation Tools:
+ 
   <img alt="Eduardo-VsCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img alt="Eduardo-Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img alt="Eduardi-ApacheNetBeans" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
 
 </div>
  
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 
 &nbsp;
 &nbsp;
 
-## Contacts:
 
-<div> 
+
+<div align="center"> 
+ 
+ ## Contacts:
+ 
 <a href="https://www.instagram.com/edu101dc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:edutnb2018@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
