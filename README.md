@@ -20,7 +20,6 @@
 ### My Skills:
  
 </div>
- 
 <div display="flex" align="center">
  <img alt="Eduardo-Html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
  <img alt="Eduardi-Css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -32,11 +31,6 @@
  <img alt="Eduardo-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img alt="Eduardo-Cplusplus" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
-
-
-
-
-
 <div display="flex" align="center">
 
 ### Workstation Tools:
