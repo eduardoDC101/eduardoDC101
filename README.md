@@ -31,8 +31,6 @@
  <br/>
  <img alt="Eduardo-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img alt="Eduardo-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img alt="Eduardo-Cplusplus" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
- <br/>
  <img alt="Eduardo-SQL" height="40" width="40" src="https://devicon-website.vercel.app/api/postgresql/original.svg"/>
 </div>
 <div display="flex" align="center">
