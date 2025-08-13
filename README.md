@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
-<p align="justify" >     Olá, meu nome é Eduardo Dourado, tenho 19 anos e sou apaixonado por programação. No meu tempo livre, gosto de codar, estudar e aprender coisas novas.</p>
+<p align="justify" >     Olá, meu nome é Eduardo Dourado, tenho 20 anos e sou apaixonado por programação. No meu tempo livre, gosto de codar, estudar e aprender coisas novas.</p>
 <p align="justify">   Comecei na programação em 2021, com aulas do Curso em Vídeo e conteúdo do YouTube. O que me fascinou e me fez querer entrar nesse universo foi a possibilidade de criar qualquer coisa usando linhas de código. </p>
 <p align="justify">   Atualmente, estou cursando Sistemas de Informação no IFSP e, em paralelo, busco aprimorar minhas habilidades em Desenvolvimento Web através de cursos e projetos. Estou sempre em busca de evolução!</p>
 &nbsp;
