@@ -10,8 +10,10 @@
  </div>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=eduardoDC101&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
- </div>
+  <img src="https://streak-stats.demolab.com?user=eduardoDC101&theme=radical&locale=pt&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" />
+</div>
+
+
  
  &nbsp;
  &nbsp;
