@@ -6,15 +6,11 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img height="165em" width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoDC101&show_icons=true&theme=radical"/>
-<img width=40% align="center" height="165em" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=eduardoDC101&show_icons=true&theme=radical&layout=compact" />
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=eduardoDC101&theme=radical&locale=pt&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
  </div>
 <br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=eduardoDC101&theme=radical&locale=pt&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" />
-</div>
 
-
- 
  &nbsp;
  &nbsp;
 
