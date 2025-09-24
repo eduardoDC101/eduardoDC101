@@ -8,7 +8,8 @@
 <img height="165em" width=55% align="center" padding-bottom="20px" src="https://github-readme-stats.vercel.app/api?username=eduardoDC101&show_icons=true&theme=radical"/>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=eduardoDC101&theme=radical&locale=pt&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=eduardoDC1011&theme=radical)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=eduardoDC1011&theme=radical)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=eduardoDC101&theme=radical&hide_border=falso&locale=pt&short_numbers=falso&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
  </div>
 <br>
 
