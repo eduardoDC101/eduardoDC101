@@ -9,8 +9,8 @@
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=eduardoDC101&theme=radical&locale=pt&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)-->
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=eduardoDC1011&theme=radical)](https://git.io/streak-stats)-->
-[![GitHub Streak](https://streak-stats.demolab.com?user=eduardoDC101&theme=dracula&hide_border=falso&locale=pt_BR&short_numbers=falso)](https://git.io/streak-stats)
-<img src="https://streak-stats.demolab.com?user=eduardoDC101&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=eduardoDC101&theme=radical&hide_border=falso&locale=pt_BR&short_numbers=falso)](https://git.io/streak-stats)
+<!--<img src="https://streak-stats.demolab.com?user=eduardoDC101&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>-->
   
  </div>
 <br>
