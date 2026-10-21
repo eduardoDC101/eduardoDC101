@@ -31,7 +31,7 @@
  <img alt="Eduardi-Css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
  <img alt="Eduardo-Javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
  <br/>
- <img alt="Eduardo-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+ <img src="https://devicon-website.vercel.app/api/figma/original.svg"></img>
  <img alt="Eduardo-Tailwind" height="40" width="40"  src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg"></img>
  <img alt="Eduardo-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
  <br/>
