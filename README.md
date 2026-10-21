@@ -35,9 +35,9 @@
  <img alt="Eduardo-Tailwind" height="40" width="40"  src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg"></img>
  <img alt="Eduardo-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
  <br/>
- <img alt="Eduardo-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
- <img alt="Eduardo-PHP" height="40" width="40" src="https://devicon-website.vercel.app/api/php/original.svg"/>
- <img alt="Eduardo-SQL" height="40" width="40" src="https://devicon-website.vercel.app/api/postgresql/original.svg"/>
+ <img height="40" width="40" src="https://devicon-website.vercel.app/api/typescript/original.svg"></img>
+ <img height="40" width="40" src="https://devicon-website.vercel.app/api/react/original.svg"></img>
+ <img height="40" width="40" src="https://devicon-website.vercel.app/api/nextjs/original.svg"></img>
 </div>
 <div display="flex" align="center">
 
