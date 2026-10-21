@@ -42,6 +42,10 @@
  <img height="40" width="40" src="https://devicon-website.vercel.app/api/mysql/original.svg"></img>
  <img height="40" width="40" src="https://devicon-website.vercel.app/api/nodejs/original.svg"></img>
  <img height="40" width="40" src="https://devicon-website.vercel.app/api/postgresql/original.svg"></img>
+ <br/>
+ <img height="40" width="40" src="https://devicon-website.vercel.app/api/vuejs/original.svg"></img>
+ <img height="40" width="40" src="https://devicon-website.vercel.app/api/jquery/original.svg"></img>
+ <img height="40" width="40" src="https://devicon-website.vercel.app/api/git/original.svg"></img>
 </div>
 <div display="flex" align="center">
 
