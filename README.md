@@ -52,6 +52,8 @@
   <img alt="Eduardo-VsCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img alt="Eduardo-Intellij" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
   <img alt="Eduardo-ApacheNetBeans" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
+  <img src="https://devicon-website.vercel.app/api/windows8/original.svg"></img>
+  <img src="https://devicon-website.vercel.app/api/linux/original.svg"></img>
   
           
 
