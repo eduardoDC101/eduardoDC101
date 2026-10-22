@@ -41,10 +41,8 @@
  <br/>
  <img alt="Eduardo-Tailwind" height="40" width="40"  src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg"></img>
  <img alt="Eduardo-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
- <br/>
  <img height="40" width="40" src="https://devicon-website.vercel.app/api/mysql/original.svg"></img>
  <img height="40" width="40" src="https://devicon-website.vercel.app/api/postgresql/original.svg"></img>
- <br/>
  <img height="40" width="40" src="https://devicon-website.vercel.app/api/jquery/original.svg"></img>
 </div>
 <div display="flex" align="center">
