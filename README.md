@@ -30,8 +30,8 @@
  <img alt="Eduardo-Html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
  <img alt="Eduardi-Css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
  <img alt="Eduardo-Javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
- <img height="40" width="40" src="https://devicon-website.vercel.app/api/figma/original.svg"></img>
- <img height="40" width="40" src="https://devicon-website.vercel.app/api/git/original.svg"></img>
+ <img alt="Eduardo-figma" height="40" width="40" src="https://devicon-website.vercel.app/api/figma/original.svg"></img>
+ <img alt="Eduardo-Javascript" height="40" width="40" src="https://devicon-website.vercel.app/api/git/original.svg"></img>
  <br/>
  <img height="40" width="40" src="https://devicon-website.vercel.app/api/typescript/original.svg"></img>
  <img height="40" width="40" src="https://devicon-website.vercel.app/api/react/original.svg"></img>
